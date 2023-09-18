@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "accountId": "x8349",
+      "accountName": "Argent Bank Checking",
+      "accountBalance": "$2,082.79",
+      "accountBalanceName": "Available Balance"
+    },
+    {
+        "id": "2",
+        "accountId": "x6712",
+        "accountName": "Argent Bank Savings",
+        "accountBalance": "$10,928.42",
+        "accountBalanceName": "Available Balance"
+    },
+    {
+        "id": "3",
+        "accountId": "x8349",
+        "accountName": "Argent Bank Credit Card",
+        "accountBalance": "$184.30",
+        "accountBalanceName": "Current Balance"
+    }
+  ]
