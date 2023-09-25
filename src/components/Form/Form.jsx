@@ -1,5 +1,3 @@
-// Form.js
-
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleUser } from '@fortawesome/free-solid-svg-icons';
@@ -47,7 +45,6 @@ function Form() {
 
       if (response.ok) {
         const data = await response.json();
-        console.log(data);
         const token = data.body.token;
 
         dispatch(setAuthToken(token));

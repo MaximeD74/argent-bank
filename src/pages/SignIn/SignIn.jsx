@@ -4,10 +4,6 @@ import Form from '../../components/Form/Form';
 import Footer from '../../components/Footer/Footer';
 
 function SignIn() {
- 
-
-  
-
   return (
     <div>
       <Navigation />

@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from '../../components/Nav/Nav';
 import HeroBanner from '../../components/HeroBanner/HeroBanner';
-import bankTree from "../../img/bank-tree.jpeg"
+import bankTree from "../../img/bank-tree.webp"
 import FeatureItem from '../../components/Features/FeatureItem';
 import Footer from '../../components/Footer/Footer';
 
